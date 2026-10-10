@@ -81,7 +81,7 @@ export default function ApplyModal({ initialTrack, onClose }: ApplyModalProps) {
     const message = encodeURIComponent(
       `Hello Design Academy by Sanfollx! I want to apply for the ${selectedProg.title} (${selectedProg.code}). My Name: ${name || 'Prospective Student'}, Location: ${location || 'N/A'}, Email: ${email}, Phone: ${phone || 'N/A'}.`
     );
-    window.open(`https://wa.me/+911234567890?text=${message}`, '_blank');
+    window.open(`https://wa.me/919846474143?text=${message}`, '_blank');
   };
 
   return (

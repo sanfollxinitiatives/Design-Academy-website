@@ -46,7 +46,7 @@ export default function ContactBoardingPass({ onApplyClick }: ContactBoardingPas
               </button>
 
               <a
-                href="https://wa.me/+911234567890"
+                href="https://wa.me/919846474143"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-2 px-6 py-3.5 rounded-full bg-[#1e1d24] hover:bg-[#22b8a5] text-white font-mono text-xs uppercase tracking-wider font-semibold transition-all shadow-md hover:-translate-y-0.5 min-h-[44px]"
@@ -56,7 +56,7 @@ export default function ContactBoardingPass({ onApplyClick }: ContactBoardingPas
               </a>
 
               <a
-                href="tel:+911234567890"
+                href="tel:+919846474143"
                 className="inline-flex items-center justify-center gap-2 px-6 py-3.5 rounded-full border border-[#26252a]/15 hover:border-[#1e1d24] hover:bg-[#fafafc] text-[#1e1d24] font-mono text-xs uppercase tracking-wider font-semibold transition-all shadow-xs min-h-[44px]"
               >
                 <PhoneCall className="w-4 h-4 text-[#7615d9]" />
@@ -143,7 +143,7 @@ export default function ContactBoardingPass({ onApplyClick }: ContactBoardingPas
           <div className="flex flex-wrap items-center justify-center gap-2">
             <span>Pattambi, Palakkad, Kerala</span>
             <span>·</span>
-            <span>+91 1234567890</span>
+            <span>+91 98464 74143</span>
           </div>
         </footer>
       </div>

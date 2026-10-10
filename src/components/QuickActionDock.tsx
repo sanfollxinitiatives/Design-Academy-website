@@ -40,7 +40,7 @@ export default function QuickActionDock({ onApplyClick }: QuickActionDockProps) 
 
       <div className="flex items-center gap-1.5 sm:gap-2 p-1.5 rounded-full bg-white/95 backdrop-blur-xl border border-[#26252a]/15 shadow-2xl shadow-purple-950/10">
         <a
-          href="https://wa.me/+911234567890"
+          href="https://wa.me/919846474143"
           target="_blank"
           rel="noopener noreferrer"
           className="w-9 h-9 sm:w-10 sm:h-10 rounded-full bg-[#22b8a5] text-white flex items-center justify-center hover:scale-105 transition-transform shadow-xs"
@@ -50,7 +50,7 @@ export default function QuickActionDock({ onApplyClick }: QuickActionDockProps) 
         </a>
 
         <a
-          href="tel:+911234567890"
+          href="tel:+919846474143"
           className="w-9 h-9 sm:w-10 sm:h-10 rounded-full bg-[#fafafc] text-[#1e1d24] border border-[#26252a]/10 flex items-center justify-center hover:bg-[#7615d9] hover:text-white hover:border-[#7615d9] transition-colors shadow-xs hidden sm:flex"
           title="Call Now"
         >

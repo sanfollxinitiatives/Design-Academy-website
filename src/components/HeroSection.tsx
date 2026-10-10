@@ -201,7 +201,7 @@ export default function HeroSection({ onApplyClick }: HeroSectionProps) {
             </a>
 
             <a
-              href="https://wa.me/+911234567890"
+              href="https://wa.me/919846474143"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-2 px-5 py-3.5 rounded-full border border-[#26252a]/15 bg-white hover:bg-[#fafafc] hover:border-[#22b8a5] hover:text-[#22b8a5] text-[#1e1d24] font-mono text-xs uppercase tracking-wider font-semibold transition-all duration-200 shadow-xs min-h-[44px]"
